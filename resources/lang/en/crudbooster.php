@@ -67,7 +67,7 @@ return [
     'alert_want_to_logout'          => 'Do you want to logout ?',
     'alert_warning'                 => "Oops",
     'alert_danger'                  => 'Something went wrong ....',
-    'alert_success'                 => 'Wow, good job...',
+    'alert_success'                 => 'Nice, good job...',
     'alert_info'                    => 'Information',
     'alert_primary'                 => 'Information',
     'alert_session_expired'         => 'Your session was expired, please login again !',
